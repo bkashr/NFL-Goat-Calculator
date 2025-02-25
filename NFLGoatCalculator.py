@@ -65,5 +65,8 @@ def main():
     print(df.head(10))  # Show top 10 QBs
     plot_top_qbs(df)
 
+def hi():
+    print("hi")
+
 if __name__ == "__main__":
     main()
